@@ -84,11 +84,11 @@ namespace Projeto_Series
                         case "6":
                             opcaoMenu= Menu();
 
-                            if(opcaoMenu=="C")
-                            {
-                                Console.Clear();
-                            }
-                            opcaoMenu = Menu();    
+                                if(opcaoMenu=="C")
+                                {
+                                    Console.Clear();
+                                }
+                                opcaoMenu = Menu();    
                             break;
 
                         default:
